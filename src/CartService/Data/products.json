@@ -1,0 +1,72 @@
+[
+  {
+    "productId": "1ecf58ae-cfa2-4b56-ae39-57089c1cf605",
+    "createdDate": "2024-02-25T17:57:46.5472883",
+    "updatedDate": "2024-02-25T20:57:46.5472884",
+    "price": 1550,
+    "productName": "Sneaker",
+    "description": "Hafif ve rahat spor ayakkabı",
+    "imageUrl": "image3",
+    "brand": "Nike",
+    "categoryId": "60e9df4e-783e-4828-b546-070033e676f5",
+    "categoryName": "Ayakkabı",
+    "user": "eda@example.com",
+    "subCategories": null
+  },
+  {
+    "productId": "4085127e-7bf6-477f-9298-9808d6fba56f",
+    "createdDate": "2024-02-25T17:57:46.5463773",
+    "updatedDate": "2024-02-25T19:57:46.5464381",
+    "price": 20,
+    "productName": "Çay",
+    "description": "Sallama çay",
+    "imageUrl": "image",
+    "brand": "Lipton",
+    "categoryId": "8b3469d9-3af3-4c1a-b77a-157987d00526",
+    "categoryName": "içecek",
+    "user": "eda@example.com",
+    "subCategories": null
+  },
+  {
+    "productId": "98cf38cb-98fc-4c2f-931b-a616e48e20e7",
+    "createdDate": "2024-02-25T17:57:46.5472939",
+    "updatedDate": "2024-02-25T22:57:46.5472939",
+    "price": 1200,
+    "productName": "Android",
+    "description": "Yüksek performanslı akıllı telefon",
+    "imageUrl": "image5",
+    "brand": "Samsung",
+    "categoryId": "3613fd76-b4b3-46a0-825d-be13fa91352c",
+    "categoryName": "Elektronik",
+    "user": "eda@example.com",
+    "subCategories": null
+  },
+  {
+    "productId": "2223e3d1-08dd-4cb9-bd22-c78fa7423d00",
+    "createdDate": "2024-02-25T17:57:46.5472921",
+    "updatedDate": "2024-02-25T21:57:46.5472921",
+    "price": 500,
+    "productName": "Küpe",
+    "description": "Zarif altın küpe, pırlanta detaylar",
+    "imageUrl": "image4",
+    "brand": "Atasay",
+    "categoryId": "c5a383e5-8fd7-433d-a2c7-4c014f036e83",
+    "categoryName": "Takı",
+    "user": "eda@example.com",
+    "subCategories": null
+  },
+  {
+    "productId": "abf4c275-b461-4ecb-a195-f4783c89da05",
+    "createdDate": "2024-02-25T17:57:46.5472848",
+    "updatedDate": "2024-02-25T23:57:46.5472849",
+    "price": 100,
+    "productName": "Gömlek",
+    "description": "ipek kumaş",
+    "imageUrl": "image2",
+    "brand": "Koton",
+    "categoryId": "b136a1d6-6111-4c24-b928-fc3bd073615e",
+    "categoryName": "Giyim",
+    "user": "eda@example.com",
+    "subCategories": null
+  }
+]
